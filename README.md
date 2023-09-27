@@ -23,8 +23,10 @@ n/a
 
 n/a
 
-## Screenshot
-![Screenshot 2023-09-18 172325](https://github.com/jony277/socialNetwork/assets/128567865/81f4758c-c4df-41b8-8a94-0768e2643695)
+## Screenshot and Video
+https://drive.google.com/file/d/1gF98bf2HpxVkXed-c4ByLjSMxGLZ8pGc/view
+![Screenshot 2023-09-27 051056](https://github.com/jony277/socialNetwork/assets/128567865/985c55bb-c143-4ec6-bf0a-a3ec46c23a3d)
+
 
 
 ## Contributing
