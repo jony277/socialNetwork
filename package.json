@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "Mongoose back-end project - Main",
     "main": "index.js",
-    "license": "MIT",
+    "license": "",
     "scripts": {
       "start": "node index",
       "dev": "nodemon index",
